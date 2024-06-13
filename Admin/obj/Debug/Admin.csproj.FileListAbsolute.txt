@@ -1,0 +1,78 @@
+E:\Materi\SEMESTER 4\Praktikum KPL\Admin\Admin\bin\Debug\Admin.exe.config
+E:\Materi\SEMESTER 4\Praktikum KPL\Admin\Admin\bin\Debug\Admin.exe
+E:\Materi\SEMESTER 4\Praktikum KPL\Admin\Admin\bin\Debug\Admin.pdb
+E:\Materi\SEMESTER 4\Praktikum KPL\Admin\Admin\obj\Debug\Admin.csproj.AssemblyReference.cache
+E:\Materi\SEMESTER 4\Praktikum KPL\Admin\Admin\obj\Debug\Admin.Form1.resources
+E:\Materi\SEMESTER 4\Praktikum KPL\Admin\Admin\obj\Debug\Admin.Properties.Resources.resources
+E:\Materi\SEMESTER 4\Praktikum KPL\Admin\Admin\obj\Debug\Admin.csproj.GenerateResource.cache
+E:\Materi\SEMESTER 4\Praktikum KPL\Admin\Admin\obj\Debug\Admin.csproj.CoreCompileInputs.cache
+E:\Materi\SEMESTER 4\Praktikum KPL\Admin\Admin\obj\Debug\Admin.exe
+E:\Materi\SEMESTER 4\Praktikum KPL\Admin\Admin\obj\Debug\Admin.pdb
+E:\Materi\SEMESTER 4\Praktikum KPL\Admin\Admin\bin\Debug\Guna.UI2.dll
+E:\Materi\SEMESTER 4\Praktikum KPL\Admin\Admin\obj\Debug\Admin.csproj.Up2Date
+E:\Materi\SEMESTER 4\Praktikum KPL\Admin\Admin\obj\Debug\Admin.UserControls.UC_TambahProduk.resources
+E:\Materi\SEMESTER 4\Praktikum KPL\Admin\Admin\obj\Debug\Admin.UserControls.UC_ListProduk.resources
+C:\Programing\C#\AdminBaru\Admin\Admin\bin\Debug\Admin.exe.config
+C:\Programing\C#\AdminBaru\Admin\Admin\bin\Debug\Admin.exe
+C:\Programing\C#\AdminBaru\Admin\Admin\bin\Debug\Admin.pdb
+C:\Programing\C#\AdminBaru\Admin\Admin\bin\Debug\Guna.UI2.dll
+C:\Programing\C#\AdminBaru\Admin\Admin\obj\Debug\Admin.csproj.AssemblyReference.cache
+C:\Programing\C#\AdminBaru\Admin\Admin\obj\Debug\Admin.Form1.resources
+C:\Programing\C#\AdminBaru\Admin\Admin\obj\Debug\Admin.Properties.Resources.resources
+C:\Programing\C#\AdminBaru\Admin\Admin\obj\Debug\Admin.UserControls.UC_TambahProduk.resources
+C:\Programing\C#\AdminBaru\Admin\Admin\obj\Debug\Admin.UserControls.UC_ListProduk.resources
+C:\Programing\C#\AdminBaru\Admin\Admin\obj\Debug\Admin.csproj.GenerateResource.cache
+C:\Programing\C#\AdminBaru\Admin\Admin\obj\Debug\Admin.csproj.CoreCompileInputs.cache
+C:\Programing\C#\AdminBaru\Admin\Admin\obj\Debug\Admin.csproj.Up2Date
+C:\Programing\C#\AdminBaru\Admin\Admin\obj\Debug\Admin.exe
+C:\Programing\C#\AdminBaru\Admin\Admin\obj\Debug\Admin.pdb
+E:\Materi\KPL ISAL\Admin\Admin\bin\Debug\Admin.exe.config
+E:\Materi\KPL ISAL\Admin\Admin\bin\Debug\Admin.exe
+E:\Materi\KPL ISAL\Admin\Admin\bin\Debug\Admin.pdb
+E:\Materi\KPL ISAL\Admin\Admin\bin\Debug\Guna.UI2.dll
+E:\Materi\KPL ISAL\Admin\Admin\obj\Debug\Admin.csproj.AssemblyReference.cache
+E:\Materi\KPL ISAL\Admin\Admin\obj\Debug\Admin.Form1.resources
+E:\Materi\KPL ISAL\Admin\Admin\obj\Debug\Admin.Properties.Resources.resources
+E:\Materi\KPL ISAL\Admin\Admin\obj\Debug\Admin.UserControls.UC_TambahProduk.resources
+E:\Materi\KPL ISAL\Admin\Admin\obj\Debug\Admin.UserControls.UC_ListProduk.resources
+E:\Materi\KPL ISAL\Admin\Admin\obj\Debug\Admin.csproj.GenerateResource.cache
+E:\Materi\KPL ISAL\Admin\Admin\obj\Debug\Admin.csproj.CoreCompileInputs.cache
+E:\Materi\KPL ISAL\Admin\Admin\obj\Debug\Admin.csproj.Up2Date
+E:\Materi\KPL ISAL\Admin\Admin\obj\Debug\Admin.exe
+E:\Materi\KPL ISAL\Admin\Admin\obj\Debug\Admin.pdb
+E:\Materi\KPL ISAL\Admin\Admin\bin\Debug\Newtonsoft.Json.dll
+E:\Materi\KPL ISAL\Admin\Admin\bin\Debug\Newtonsoft.Json.xml
+C:\Programing\C#\12 JUNI PROGRES\DeletDone\Admin\Admin\bin\Debug\Admin.exe.config
+C:\Programing\C#\12 JUNI PROGRES\DeletDone\Admin\Admin\bin\Debug\Admin.exe
+C:\Programing\C#\12 JUNI PROGRES\DeletDone\Admin\Admin\bin\Debug\Admin.pdb
+C:\Programing\C#\12 JUNI PROGRES\DeletDone\Admin\Admin\bin\Debug\Guna.UI2.dll
+C:\Programing\C#\12 JUNI PROGRES\DeletDone\Admin\Admin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Programing\C#\12 JUNI PROGRES\DeletDone\Admin\Admin\bin\Debug\Newtonsoft.Json.dll
+C:\Programing\C#\12 JUNI PROGRES\DeletDone\Admin\Admin\bin\Debug\System.Buffers.dll
+C:\Programing\C#\12 JUNI PROGRES\DeletDone\Admin\Admin\bin\Debug\System.Memory.dll
+C:\Programing\C#\12 JUNI PROGRES\DeletDone\Admin\Admin\bin\Debug\System.Numerics.Vectors.dll
+C:\Programing\C#\12 JUNI PROGRES\DeletDone\Admin\Admin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Programing\C#\12 JUNI PROGRES\DeletDone\Admin\Admin\bin\Debug\System.Text.Encodings.Web.dll
+C:\Programing\C#\12 JUNI PROGRES\DeletDone\Admin\Admin\bin\Debug\System.Text.Json.dll
+C:\Programing\C#\12 JUNI PROGRES\DeletDone\Admin\Admin\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Programing\C#\12 JUNI PROGRES\DeletDone\Admin\Admin\bin\Debug\System.ValueTuple.dll
+C:\Programing\C#\12 JUNI PROGRES\DeletDone\Admin\Admin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Programing\C#\12 JUNI PROGRES\DeletDone\Admin\Admin\bin\Debug\Newtonsoft.Json.xml
+C:\Programing\C#\12 JUNI PROGRES\DeletDone\Admin\Admin\bin\Debug\System.Buffers.xml
+C:\Programing\C#\12 JUNI PROGRES\DeletDone\Admin\Admin\bin\Debug\System.Memory.xml
+C:\Programing\C#\12 JUNI PROGRES\DeletDone\Admin\Admin\bin\Debug\System.Numerics.Vectors.xml
+C:\Programing\C#\12 JUNI PROGRES\DeletDone\Admin\Admin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Programing\C#\12 JUNI PROGRES\DeletDone\Admin\Admin\bin\Debug\System.Text.Encodings.Web.xml
+C:\Programing\C#\12 JUNI PROGRES\DeletDone\Admin\Admin\bin\Debug\System.Text.Json.xml
+C:\Programing\C#\12 JUNI PROGRES\DeletDone\Admin\Admin\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Programing\C#\12 JUNI PROGRES\DeletDone\Admin\Admin\bin\Debug\System.ValueTuple.xml
+C:\Programing\C#\12 JUNI PROGRES\DeletDone\Admin\Admin\obj\Debug\Admin.csproj.AssemblyReference.cache
+C:\Programing\C#\12 JUNI PROGRES\DeletDone\Admin\Admin\obj\Debug\Admin.Form1.resources
+C:\Programing\C#\12 JUNI PROGRES\DeletDone\Admin\Admin\obj\Debug\Admin.Properties.Resources.resources
+C:\Programing\C#\12 JUNI PROGRES\DeletDone\Admin\Admin\obj\Debug\Admin.UserControls.UC_TambahProduk.resources
+C:\Programing\C#\12 JUNI PROGRES\DeletDone\Admin\Admin\obj\Debug\Admin.UserControls.UC_ListProduk.resources
+C:\Programing\C#\12 JUNI PROGRES\DeletDone\Admin\Admin\obj\Debug\Admin.csproj.GenerateResource.cache
+C:\Programing\C#\12 JUNI PROGRES\DeletDone\Admin\Admin\obj\Debug\Admin.csproj.CoreCompileInputs.cache
+C:\Programing\C#\12 JUNI PROGRES\DeletDone\Admin\Admin\obj\Debug\Admin.csproj.Up2Date
+C:\Programing\C#\12 JUNI PROGRES\DeletDone\Admin\Admin\obj\Debug\Admin.exe
+C:\Programing\C#\12 JUNI PROGRES\DeletDone\Admin\Admin\obj\Debug\Admin.pdb

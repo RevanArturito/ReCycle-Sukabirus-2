@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programing\\C#\\12 JUNI PROGRES\\DeletDone\\Admin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7B85D6-7B2A-4D27-85EC-FFF399B4276D}|Admin\\Admin.csproj|C:\\Programing\\C#\\12 JUNI PROGRES\\DeletDone\\Admin\\admin\\usercontrols\\uc_tambahproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7B85D6-7B2A-4D27-85EC-FFF399B4276D}|Admin\\Admin.csproj|solutionrelative:admin\\usercontrols\\uc_tambahproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7B85D6-7B2A-4D27-85EC-FFF399B4276D}|Admin\\Admin.csproj|C:\\Programing\\C#\\12 JUNI PROGRES\\DeletDone\\Admin\\admin\\usercontrols\\uc_tambahproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A7B85D6-7B2A-4D27-85EC-FFF399B4276D}|Admin\\Admin.csproj|solutionrelative:admin\\usercontrols\\uc_tambahproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7B85D6-7B2A-4D27-85EC-FFF399B4276D}|Admin\\Admin.csproj|C:\\Programing\\C#\\12 JUNI PROGRES\\DeletDone\\Admin\\admin\\usercontrols\\uc_listproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7B85D6-7B2A-4D27-85EC-FFF399B4276D}|Admin\\Admin.csproj|solutionrelative:admin\\usercontrols\\uc_listproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7B85D6-7B2A-4D27-85EC-FFF399B4276D}|Admin\\Admin.csproj|c:\\programing\\c#\\12 juni progres\\deletdone\\admin\\admin\\usercontrols\\uc_listproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A7B85D6-7B2A-4D27-85EC-FFF399B4276D}|Admin\\Admin.csproj|solutionrelative:admin\\usercontrols\\uc_listproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Admin||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programing\\C#\\12 JUNI PROGRES\\DeletDone\\Admin\\Admin\\bin\\Debug\\ProductsSolarPanels.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Admin\\bin\\Debug\\ProductsSolarPanels.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7B85D6-7B2A-4D27-85EC-FFF399B4276D}|Admin\\Admin.csproj|c:\\programing\\c#\\12 juni progres\\deletdone\\admin\\admin\\usercontrols\\produk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7B85D6-7B2A-4D27-85EC-FFF399B4276D}|Admin\\Admin.csproj|solutionrelative:admin\\usercontrols\\produk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 163,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UC_TambahProduk.cs",
+              "DocumentMoniker": "C:\\Programing\\C#\\12 JUNI PROGRES\\DeletDone\\Admin\\Admin\\UserControls\\UC_TambahProduk.cs",
+              "RelativeDocumentMoniker": "Admin\\UserControls\\UC_TambahProduk.cs",
+              "ToolTip": "C:\\Programing\\C#\\12 JUNI PROGRES\\DeletDone\\Admin\\Admin\\UserControls\\UC_TambahProduk.cs",
+              "RelativeToolTip": "Admin\\UserControls\\UC_TambahProduk.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAGAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T10:05:51.575Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UC_ListProduk.cs",
+              "DocumentMoniker": "C:\\Programing\\C#\\12 JUNI PROGRES\\DeletDone\\Admin\\Admin\\UserControls\\UC_ListProduk.cs",
+              "RelativeDocumentMoniker": "Admin\\UserControls\\UC_ListProduk.cs",
+              "ToolTip": "C:\\Programing\\C#\\12 JUNI PROGRES\\DeletDone\\Admin\\Admin\\UserControls\\UC_ListProduk.cs",
+              "RelativeToolTip": "Admin\\UserControls\\UC_ListProduk.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAUwEcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:10:18.128Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UC_ListProduk.cs [Design]",
+              "DocumentMoniker": "C:\\Programing\\C#\\12 JUNI PROGRES\\DeletDone\\Admin\\Admin\\UserControls\\UC_ListProduk.cs",
+              "RelativeDocumentMoniker": "Admin\\UserControls\\UC_ListProduk.cs",
+              "ToolTip": "C:\\Programing\\C#\\12 JUNI PROGRES\\DeletDone\\Admin\\Admin\\UserControls\\UC_ListProduk.cs [Design]",
+              "RelativeToolTip": "Admin\\UserControls\\UC_ListProduk.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:10:08.763Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Admin",
+              "DocumentMoniker": "C:\\Programing\\C#\\12 JUNI PROGRES\\DeletDone\\Admin\\Admin\\Admin.csproj",
+              "RelativeDocumentMoniker": "Admin\\Admin.csproj",
+              "ToolTip": "C:\\Programing\\C#\\12 JUNI PROGRES\\DeletDone\\Admin\\Admin\\Admin.csproj",
+              "RelativeToolTip": "Admin\\Admin.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-12T11:50:29.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PRODUK.cs",
+              "DocumentMoniker": "C:\\Programing\\C#\\12 JUNI PROGRES\\DeletDone\\Admin\\Admin\\UserControls\\PRODUK.cs",
+              "RelativeDocumentMoniker": "Admin\\UserControls\\PRODUK.cs",
+              "ToolTip": "C:\\Programing\\C#\\12 JUNI PROGRES\\DeletDone\\Admin\\Admin\\UserControls\\PRODUK.cs",
+              "RelativeToolTip": "Admin\\UserControls\\PRODUK.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:50:20.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UC_TambahProduk.cs [Design]",
+              "DocumentMoniker": "C:\\Programing\\C#\\12 JUNI PROGRES\\DeletDone\\Admin\\Admin\\UserControls\\UC_TambahProduk.cs",
+              "RelativeDocumentMoniker": "Admin\\UserControls\\UC_TambahProduk.cs",
+              "ToolTip": "C:\\Programing\\C#\\12 JUNI PROGRES\\DeletDone\\Admin\\Admin\\UserControls\\UC_TambahProduk.cs [Design]",
+              "RelativeToolTip": "Admin\\UserControls\\UC_TambahProduk.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T14:24:18.659Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsSolarPanels.json",
+              "DocumentMoniker": "C:\\Programing\\C#\\12 JUNI PROGRES\\DeletDone\\Admin\\Admin\\bin\\Debug\\ProductsSolarPanels.json",
+              "RelativeDocumentMoniker": "Admin\\bin\\Debug\\ProductsSolarPanels.json",
+              "ToolTip": "C:\\Programing\\C#\\12 JUNI PROGRES\\DeletDone\\Admin\\Admin\\bin\\Debug\\ProductsSolarPanels.json",
+              "RelativeToolTip": "Admin\\bin\\Debug\\ProductsSolarPanels.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-12T15:20:28.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
